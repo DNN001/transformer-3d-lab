@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Transformer 3D Lab">
+  <defs>
+    <linearGradient id="t3lFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#2f4df0"/>
+    </linearGradient>
+    <linearGradient id="t3lTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9dc0ff"/>
+      <stop offset="1" stop-color="#6a92ff"/>
+    </linearGradient>
+    <linearGradient id="t3lSide" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2741b8"/>
+      <stop offset="1" stop-color="#182a7d"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M32 4 L56 15 L32 26 L8 15 Z" fill="url(#t3lTop)"/>
+    <path d="M8 15 L32 26 L32 33 L8 22 Z" fill="url(#t3lSide)"/>
+    <path d="M56 15 L32 26 L32 33 L56 22 Z" fill="url(#t3lFace)"/>
+  </g>
+  <g opacity="0.94">
+    <path d="M32 21 L56 32 L32 43 L8 32 Z" fill="url(#t3lTop)"/>
+    <path d="M8 32 L32 43 L32 50 L8 39 Z" fill="url(#t3lSide)"/>
+    <path d="M56 32 L32 43 L32 50 L56 39 Z" fill="url(#t3lFace)"/>
+  </g>
+  <g opacity="0.86">
+    <path d="M32 38 L56 49 L32 60 L8 49 Z" fill="url(#t3lTop)"/>
+    <path d="M8 49 L32 60 L32 62 L8 51 Z" fill="url(#t3lSide)"/>
+    <path d="M56 49 L32 60 L32 62 L56 51 Z" fill="url(#t3lFace)"/>
+  </g>
+  <g fill="#cfdcff" opacity="0.9">
+    <circle cx="32" cy="15" r="1.6"/>
+    <circle cx="32" cy="32" r="1.6"/>
+    <circle cx="32" cy="49" r="1.6"/>
+  </g>
+</svg>

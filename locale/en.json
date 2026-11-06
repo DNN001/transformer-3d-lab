@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Transformer 3D Lab",
+    "description": "Opens one transformer block into a seven-stage 3D pipeline with a real forward pass, next to the full layer stack, attention heads, residual stream, and live parameter costs."
+  }
+}

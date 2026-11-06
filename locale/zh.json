@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Transformer 3D Lab",
+    "description": "把一个 Transformer 块展开成七阶段的三维流水线（含真实前向计算），并可切换到完整层堆栈查看注意力头、残差流与实时参数量开销。"
+  }
+}
